@@ -1,0 +1,129 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_604dqVlaF8l_course_id" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">TEM Image Optimization for Beginners</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="TEM_Image_Optimization_for_Beginners_ORG">
+    <organization identifier="TEM_Image_Optimization_for_Beginners_ORG">
+      <title>TEM Image Optimization for Beginners</title>
+      <item identifier="TEM_Image_Optimization_for_Beginners_SCO" isvisible="true" identifierref="__604dqVlaF8l_course_id_RES">
+        <title>TEM Image Optimization for Beginners</title>
+        <adlcp:masteryscore>80</adlcp:masteryscore>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__604dqVlaF8l_course_id_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/6DFEUeRDYWw_80_DX800_DY800_CX436_CY613.png" />
+      <file href="story_content/video_6ZTGgMqA8ju_22_48_720x472.mp4" />
+      <file href="mobile/poster_6lh1xfMfxQu_video_6ZTGgMqA8ju_22_48_720x472.jpg" />
+      <file href="mobile/6nzZY1vQnkE_80_DX570_DY570_CX388_CY374.png" />
+      <file href="mobile/6EYePrYkpw4_80_DX1240_DY1240_CX764_CY111.png" />
+      <file href="mobile/6HX7Pwv9o7P_80_P_0_0_882_968_DX1280_DY1280_CX434_CY476.png" />
+      <file href="mobile/5vyCwOv22YB_80_P_0_0_657_912_DX1750_DY1750_CX441_CY613.png" />
+      <file href="mobile/5b7n5cUfSHE_80_P_0_0_771_872_DX1708_DY1708_CX506_CY572.png" />
+      <file href="mobile/66RmKZftx0g_80_P_0_0_721_897_DX1482_DY1482_CX410_CY510.png" />
+      <file href="mobile/5ZUsqFAdoHE_80_DX1440_DY1440_CX1132_CY684.png" />
+      <file href="mobile/6DhRFjJIn9r_80_P_0_0_1021_958_DX1666_DY1666_CX654_CY613.png" />
+      <file href="mobile/5XkUVWY1Rxz_80_P_0_0_929_1024_DX1720_DY1720_CX613_CY676.png" />
+      <file href="mobile/5eMfH4TDTJG_80_DX728_DY728_CX572_CY475.png" />
+      <file href="mobile/5WcA6LqCjHH_80_DX994_DY994_CX782_CY546.png" />
+      <file href="mobile/6L6ZAozkjql_80_DX1210_DY1210_CX952_CY597.png" />
+      <file href="mobile/5cKZ7JAxwN8_80_DX758_DY758_CX595_CY459.png" />
+      <file href="mobile/6Lwf92cPhGD_80_DX838_DY838_CX650_CY659.png" />
+      <file href="mobile/5kZv6gNc43i_80_DX674_DY674_CX530_CY498.png" />
+      <file href="mobile/5mFCqWJP7RG_80_DX500_DY500_CX393_CY295.png" />
+      <file href="mobile/6OmZ5dXYuYM_80_DX516_DY516_CX405_CY314.png" />
+      <file href="mobile/6Rao3KUCcRw_80_DX742_DY742_CX565_CY583.png" />
+      <file href="meta.xml" />
+      <file href="story_content/user.js" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5mrz0qmHbe2.js" />
+      <file href="html5/data/js/5n1HXhwUfWH.js" />
+      <file href="html5/data/js/5oipmPysvR5.js" />
+      <file href="html5/data/js/5poxMwbqpCf.js" />
+      <file href="html5/data/js/5tovW79l4ld.js" />
+      <file href="html5/data/js/5WerljLZj1T.js" />
+      <file href="html5/data/js/62qeHztLeYa.js" />
+      <file href="html5/data/js/64Qkp8xuHLz.js" />
+      <file href="html5/data/js/68INPPLNmsZ.js" />
+      <file href="html5/data/js/6etrcQ6cuo2.js" />
+      <file href="html5/data/js/6eUAcAJWB9q.js" />
+      <file href="html5/data/js/6GxE4oe7UAe.js" />
+      <file href="html5/data/js/6IQ5aUqT2w3.js" />
+      <file href="html5/data/js/6KXiJpSB7dr.js" />
+      <file href="html5/data/js/6LVmOOZdTpk.js" />
+      <file href="html5/data/js/6ozx2TD6LPZ.js" />
+      <file href="html5/data/js/6Pdcu92COsW.js" />
+      <file href="html5/data/js/6QuhZXJhXlC.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
